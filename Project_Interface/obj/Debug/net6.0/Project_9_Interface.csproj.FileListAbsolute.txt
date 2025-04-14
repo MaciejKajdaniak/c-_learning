@@ -1,0 +1,15 @@
+C:\Users\student\Desktop\Project_9_Interface\bin\Debug\net6.0\Project_9_Interface.exe
+C:\Users\student\Desktop\Project_9_Interface\bin\Debug\net6.0\Project_9_Interface.deps.json
+C:\Users\student\Desktop\Project_9_Interface\bin\Debug\net6.0\Project_9_Interface.runtimeconfig.json
+C:\Users\student\Desktop\Project_9_Interface\bin\Debug\net6.0\Project_9_Interface.dll
+C:\Users\student\Desktop\Project_9_Interface\bin\Debug\net6.0\Project_9_Interface.pdb
+C:\Users\student\Desktop\Project_9_Interface\obj\Debug\net6.0\Project_9_Interface.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Project_9_Interface\obj\Debug\net6.0\Project_9_Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\Project_9_Interface\obj\Debug\net6.0\Project_9_Interface.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\Project_9_Interface\obj\Debug\net6.0\Project_9_Interface.AssemblyInfo.cs
+C:\Users\student\Desktop\Project_9_Interface\obj\Debug\net6.0\Project_9_Interface.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Project_9_Interface\obj\Debug\net6.0\Project_9_Interface.dll
+C:\Users\student\Desktop\Project_9_Interface\obj\Debug\net6.0\refint\Project_9_Interface.dll
+C:\Users\student\Desktop\Project_9_Interface\obj\Debug\net6.0\Project_9_Interface.pdb
+C:\Users\student\Desktop\Project_9_Interface\obj\Debug\net6.0\Project_9_Interface.genruntimeconfig.cache
+C:\Users\student\Desktop\Project_9_Interface\obj\Debug\net6.0\ref\Project_9_Interface.dll

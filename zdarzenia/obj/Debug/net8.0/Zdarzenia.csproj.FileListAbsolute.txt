@@ -1,0 +1,14 @@
+C:\Users\student\Desktop\Zdarzenia\bin\Debug\net8.0\Zdarzenia.exe
+C:\Users\student\Desktop\Zdarzenia\bin\Debug\net8.0\Zdarzenia.deps.json
+C:\Users\student\Desktop\Zdarzenia\bin\Debug\net8.0\Zdarzenia.runtimeconfig.json
+C:\Users\student\Desktop\Zdarzenia\bin\Debug\net8.0\Zdarzenia.dll
+C:\Users\student\Desktop\Zdarzenia\bin\Debug\net8.0\Zdarzenia.pdb
+C:\Users\student\Desktop\Zdarzenia\obj\Debug\net8.0\Zdarzenia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\Zdarzenia\obj\Debug\net8.0\Zdarzenia.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\Zdarzenia\obj\Debug\net8.0\Zdarzenia.AssemblyInfo.cs
+C:\Users\student\Desktop\Zdarzenia\obj\Debug\net8.0\Zdarzenia.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Zdarzenia\obj\Debug\net8.0\Zdarzenia.dll
+C:\Users\student\Desktop\Zdarzenia\obj\Debug\net8.0\refint\Zdarzenia.dll
+C:\Users\student\Desktop\Zdarzenia\obj\Debug\net8.0\Zdarzenia.pdb
+C:\Users\student\Desktop\Zdarzenia\obj\Debug\net8.0\Zdarzenia.genruntimeconfig.cache
+C:\Users\student\Desktop\Zdarzenia\obj\Debug\net8.0\ref\Zdarzenia.dll
